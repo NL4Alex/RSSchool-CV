@@ -1,12 +1,12 @@
-## Alexei Potapeiko
+## Alexey Potapeiko
 ***
 #### Contacts:
-* Discord: NL4Alex
-* E-mail: a.potapeyko @ gmail.com
+* Discord: @NL4Alex
+* E-mail: a.potapeyko (@) gmail.com
 * Phone: on request
 
 #### About myself:
-I'm a Project Manager (ERP systems implementation) and now I'm studying Frontend development to switch my career.
+I'm a Project Manager (ERP systems implementation) and now I'm studying Frontend development at RS School to switch my career.
 
 #### Code example:
 ```
@@ -30,3 +30,4 @@ Bachelor degree in physics in Belarusian State University, Minsk.
 
 #### Language:
 English: C1 level
+Russian: native
