@@ -29,5 +29,5 @@ function toCamelCase(str){
 Bachelor degree in physics in Belarusian State University, Minsk.
 
 #### Language:
-English: C1 level
-Russian: native
+- English: C1 level
+- Russian: native
